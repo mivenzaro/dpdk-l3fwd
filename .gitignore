@@ -1,0 +1,8 @@
+build/
+*.o
+*.d
+*.so
+__pycache__/
+*.pyc
+.env
+/tmp/
